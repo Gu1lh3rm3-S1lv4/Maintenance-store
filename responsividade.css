@@ -215,6 +215,7 @@
    .fab-container {
         top: 72vh;
         position: fixed;
+        overflow-y: hidden;
     }
 
     /*ROLAGEM HORIZONTAL*/
