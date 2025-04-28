@@ -212,10 +212,9 @@
     }
 
     /*BUTTONS SOCIAL*/
-    .fab-container {
-        top: 79vh;
-        position: fixed;
-
+      .fab-container {
+       margin-top: -10%;
+    
     }
 
     /*ROLAGEM HORIZONTAL*/
