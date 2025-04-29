@@ -213,8 +213,7 @@
 
     /*BUTTONS SOCIAL*/
    .fab-container {
-        top: 73vh;
-        position: fixed;
+       top: 80dvh; /* suporta mudanças dinâmicas no navegador */;
     }
 
     /*ROLAGEM HORIZONTAL*/
