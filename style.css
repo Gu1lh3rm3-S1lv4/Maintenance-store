@@ -98,20 +98,6 @@ form .btn-enviar input:hover {
     transform: scale(1.05);
 }
 
-body {
-    background-image: url(img/Imagem\ do\ WhatsApp\ de\ 2025-05-01\ à\(s\)\ 02.30.20_36a232ed.jpg);
-    background-size: cover;
-    /* A imagem cobrirá toda a área da tela */
-    background-position: center center;
-    /* A imagem será centralizada */
-    background-attachment: fixed; /* ou apenas remova essa linha */
-
-    background-repeat: no-repeat;
-    /* A imagem não se repetirá */
-    color: #ffffff;
-
-}
-
 .nav-mobile {
     display: none;
 }
