@@ -110,7 +110,8 @@ form .btn-enviar input:hover {
 /*Body do site*/
 section .txt-topo {
     padding: 3% 50% 20% 10%;
-
+ background-color: #000000;
+    background-image: url(img/Imagem\ do\ WhatsApp\ de\ 2025-05-01\ à\(s\)\ 02.30.20_36a232ed.jpg);
 }
 
 .txt-topo h1 {
