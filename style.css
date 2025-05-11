@@ -110,18 +110,6 @@ form .btn-enviar input:hover {
 /*Body do site*/
 section .txt-topo {
     padding: 3% 50% 20% 10%;
-    background-color: #000000;
-    background-image: url(img/Imagem\ do\ WhatsApp\ de\ 2025-05-01\ à\(s\)\ 02.30.20_36a232ed.jpg);
-    background-size: cover;
-    /* A imagem cobrirá toda a área da tela */
-    background-position: center center;
-    /* A imagem será centralizada */
-    background-attachment: fixed;
-    /* A imagem ficará fixa durante a rolagem */
-    background-repeat: no-repeat;
-    /* A imagem não se repetirá */
-    height: 100%;
-    width: 100%;
 
 }
 
